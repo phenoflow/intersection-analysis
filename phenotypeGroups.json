@@ -1,38 +1,4 @@
 {
-  "{\"\\\"name\\\"\": \"COVID-19-infection---0ad8bf70-16ea-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"COVID-19 infection - PH1\"}": [
-    {
-      "\"name\"": "Long-covid---fe190690-2419-11ef-92ec-515864bc885c",
-      "\"about\"": "Diagnosis of long covid symptoms 31 days to 186 days after covid19 following covid19 hospitalisation, without a record of long covid - tHzJwrp4q17O4oOmVo717R9m2g"
-    },
-    {
-      "\"name\"": "Long-covid---0043aec0-241a-11ef-92ec-515864bc885c",
-      "\"about\"": "Diagnosis of long covid symptoms 31 days to 186 days after covid19, without a record of long covid and covid19 hospitalisation - tHzJwrp4q17O4oOmVo717R9m2g"
-    },
-    {
-      "\"name\"": "Long-covid---00d05e60-241a-11ef-92ec-515864bc885c",
-      "\"about\"": "Long covid following covid19 hospitalisation and covid19 - Nca9JAE6vRzs2eNdpCh5E1CO9tw"
-    },
-    {
-      "\"name\"": "Long-covid---01604250-241a-11ef-92ec-515864bc885c",
-      "\"about\"": "Long covid following covid19, without a record of covid19 hospitalisation - Nca9JAE6vRzs2eNdpCh5E1CO9tw"
-    },
-    {
-      "\"name\"": "Long-covid---01dcc550-241a-11ef-92ec-515864bc885c",
-      "\"about\"": "Long covid, without a record of covid19 - qfaKAqHl3x8UQnVii9fP5JMzoGY"
-    },
-    {
-      "\"name\"": "Long-covid---01dd1370-241a-11ef-92ec-515864bc885c",
-      "\"about\"": "Long covid - BXq6MWeCqisLe2Lderw2Y0kbc"
-    },
-    {
-      "\"name\"": "Covid---d6283c60-3976-11ef-918f-350181f4a5db",
-      "\"about\"": "Covid - LoCSldgykhqUTjsCZaVQjosBY"
-    },
-    {
-      "\"name\"": "Long-covid---4bb839e0-397b-11ef-918f-350181f4a5db",
-      "\"about\"": "Long covid - ZhuuOh7JC1cUoRzdSzvH5pas6k"
-    }
-  ],
   "{\"\\\"name\\\"\": \"Anxiety---81946880-16ea-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Anxiety - PH2\"}": [
     {
       "\"name\"": "Anxiety-disorders---3d3cf8c0-1760-11ef-9de4-4d4ea830ad16",
@@ -65,6 +31,10 @@
     {
       "\"name\"": "Anxiety-Disorders---881b8830-3974-11ef-918f-350181f4a5db",
       "\"about\"": "Anxiety Disorders - GA6GUWL1tfr6KP5jl3elHw4tI"
+    },
+    {
+      "\"name\"": "Anxiety---41ed98d0-684f-11ef-918f-350181f4a5db",
+      "\"about\"": "Jn9kEJZsTHR5SnHEzjXuHahCfas - Anxiety"
     }
   ],
   "{\"\\\"name\\\"\": \"Depression---3459a2f0-16eb-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Depression - PH3\"}": [
@@ -197,6 +167,10 @@
     {
       "\"name\"": "Psoriasis---a7270ca0-1d53-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Psoriasis - PH912"
+    },
+    {
+      "\"name\"": "Psoriasis---50402a30-6866-11ef-918f-350181f4a5db",
+      "\"about\"": "LqN1m0HLZUu7IKygdIel2b0aBl0 - Psoriasis"
     }
   ],
   "{\"\\\"name\\\"\": \"Diabetes---d88be170-16f1-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Diabetes - PH8\"}": [
@@ -213,10 +187,6 @@
       "\"about\"": "Diabetes - PH375"
     },
     {
-      "\"name\"": "Type-2-Diabetes---b30a8860-19bd-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Type 2 Diabetes - PH490"
-    },
-    {
       "\"name\"": "Diabetes---c10cdf70-19eb-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Diabetes - PH518"
     },
@@ -229,10 +199,6 @@
       "\"about\"": "Diabetes - PH520"
     },
     {
-      "\"name\"": "Type-2-Diabetes---dfc54970-1a27-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Type 2 Diabetes - PH569"
-    },
-    {
       "\"name\"": "Diabetes---e53eb430-1a37-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Diabetes - PH580"
     },
@@ -243,22 +209,6 @@
     {
       "\"name\"": "Diabetes---cd970470-1ad4-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Diabetes - PH629"
-    },
-    {
-      "\"name\"": "Type-1-Diabetes---bcced3f0-1bd5-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Type 1 Diabetes - PH717"
-    },
-    {
-      "\"name\"": "Type-2-Diabetes---7fcbd1f0-1bd6-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Type 2 Diabetes - PH718"
-    },
-    {
-      "\"name\"": "Type-1-Diabetes---2d8a10e0-1c27-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Type 1 Diabetes - PH752"
-    },
-    {
-      "\"name\"": "Type-2-Diabetes---1c10b020-1c28-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Type 2 Diabetes - PH753"
     },
     {
       "\"name\"": "Diabetes---96e3b550-1d1c-11ef-94c0-09c4aef33dd3",
@@ -275,18 +225,6 @@
     {
       "\"name\"": "Diabetes---74eb7c70-1d4a-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Diabetes (Drug Code) - PH896"
-    },
-    {
-      "\"name\"": "Type-2-Diabetes---213f58c0-1d55-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Type 2 Diabetes (Diagnostic Codes) - PH913"
-    },
-    {
-      "\"name\"": "Type-2-Diabetes---743dc460-1d57-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Type 2 Diabetes (Exclusion Codes) - PH914"
-    },
-    {
-      "\"name\"": "Type-2-Diabetes---f6fa8c30-1d57-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Type 2 Diabetes (Hba1C Test Codes) - PH915"
     },
     {
       "\"name\"": "Diabetes---4d9cec30-1d9f-11ef-94c0-09c4aef33dd3",
@@ -335,6 +273,12 @@
     {
       "\"name\"": "Cystic-Fibrosis---c952f780-1876-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Cystic Fibrosis - PH416"
+    }
+  ],
+  "{\"\\\"name\\\"\": \"Pneumonia---239c81c0-16f6-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Pneumonia - PH15\"}": [
+    {
+      "\"name\"": "Pneumonia---32e03ef0-6864-11ef-918f-350181f4a5db",
+      "\"about\"": "9RLE1Ovxem84Gg4g2sUWPiaHVhU - Pneumonia"
     }
   ],
   "{\"\\\"name\\\"\": \"Hearing-loss---325936b0-16f9-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Hearing loss - PH20\"}": [
@@ -419,6 +363,10 @@
     {
       "\"name\"": "Heart-Failure---716b6b10-1dc6-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Heart Failure (fatal/non-fatal) - PH1028"
+    },
+    {
+      "\"name\"": "Heart-failure---ce5a09c0-6859-11ef-918f-350181f4a5db",
+      "\"about\"": "Z2l3VT8WC4WqRBwbZuxB667XOiY - Heart failure"
     }
   ],
   "{\"\\\"name\\\"\": \"Hypertension---a5a4f0e0-16fa-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Hypertension - PH26\"}": [
@@ -473,6 +421,10 @@
     {
       "\"name\"": "Abdominal-Aortic-Aneurysm---87a405c0-1dbe-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Abdominal Aortic Aneurysm (AAA) - PH1023"
+    },
+    {
+      "\"name\"": "Abdominal-aortic-aneurysm---d67352e0-684c-11ef-918f-350181f4a5db",
+      "\"about\"": "WhtTgtz3qlwaSss8ddXFSUIMZzE - Abdominal aortic aneurysm"
     }
   ],
   "{\"\\\"name\\\"\": \"Atrial-fibrillation---34e3c970-170a-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Atrial fibrillation - PH36\"}": [
@@ -495,6 +447,22 @@
     {
       "\"name\"": "End-Stage-Renal-Disease---e9bb03a0-1a2e-11ef-9de4-4d4ea830ad16",
       "\"about\"": "End-Stage Renal Disease (ESRD) - PH574"
+    }
+  ],
+  "{\"\\\"name\\\"\": \"Giant-Cell-arteritis---2d53c3a0-170e-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Giant Cell arteritis - PH46\"}": [
+    {
+      "\"name\"": "Giant-cell-arteritis---07775800-6857-11ef-918f-350181f4a5db",
+      "\"about\"": "bbUts3EDLe8dObcZO2XdIqD1Ic - Giant cell arteritis"
+    }
+  ],
+  "{\"\\\"name\\\"\": \"Multiple-sclerosis---37860fd0-1750-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Multiple sclerosis - PH63\"}": [
+    {
+      "\"name\"": "Multiple-sclerosis---4b003740-685c-11ef-918f-350181f4a5db",
+      "\"about\"": "vDoJ9NGRBIFe8PJst2zkXwvpME - Multiple sclerosis"
+    },
+    {
+      "\"name\"": "Multiple-sclerosis---c2427570-685c-11ef-918f-350181f4a5db",
+      "\"about\"": "LsTOfu3cdwtLLvAadM282uJb958 - Multiple sclerosis"
     }
   ],
   "{\"\\\"name\\\"\": \"Osteoarthritis---c1354ba0-1751-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Osteoarthritis (excl spine) - PH65\"}": [
@@ -545,6 +513,12 @@
       "\"about\"": "Personality Disorder - PH889"
     }
   ],
+  "{\"\\\"name\\\"\": \"Polymyalgia-Rheumatica---b0605650-1754-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Polymyalgia Rheumatica - PH74\"}": [
+    {
+      "\"name\"": "Polymyalgia-rheumatica---b4c74030-6864-11ef-918f-350181f4a5db",
+      "\"about\"": "9HgZsdFcu4fYRlJvG2dhEJ9lI - Polymyalgia rheumatica"
+    }
+  ],
   "{\"\\\"name\\\"\": \"Rheumatoid-Arthritis---0e8bbd40-1756-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Rheumatoid Arthritis - PH80\"}": [
     {
       "\"name\"": "Rheumatoid-Arthritis---0b8332d0-19b4-11ef-9de4-4d4ea830ad16",
@@ -561,6 +535,24 @@
     {
       "\"name\"": "Rheumatoid-arthritis---1c495c90-1ad9-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Rheumatoid arthritis - PH637"
+    },
+    {
+      "\"name\"": "Rheumatoid-arthritis---71f2faf0-690f-11ef-918f-350181f4a5db",
+      "\"about\"": "7LNTz0UIcV9AYHuOP9jH716nbyk - Rheumatoid arthritis"
+    },
+    {
+      "\"name\"": "Rheumatoid-arthritis---f6ae51e0-690f-11ef-918f-350181f4a5db",
+      "\"about\"": "1DsNBHrQVhcthP9Zkj5oaT4K4I - Rheumatoid arthritis"
+    },
+    {
+      "\"name\"": "Rheumatoid-arthritis---63153730-6911-11ef-918f-350181f4a5db",
+      "\"about\"": "rBdfWBEYMObkYxej7fEyAGUA - Rheumatoid arthritis"
+    }
+  ],
+  "{\"\\\"name\\\"\": \"Lupus-erythematosus---0da9cc40-1757-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Lupus erythematosus (local and systemic) - PH83\"}": [
+    {
+      "\"name\"": "Lupus-erythematosus---41957040-685b-11ef-918f-350181f4a5db",
+      "\"about\"": "303CGNwxQJxmpECaMRjxDxbwc9M - Lupus erythematosus"
     }
   ],
   "{\"\\\"name\\\"\": \"Agranulocytosis---ba552620-175b-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Agranulocytosis - PH93\"}": [
@@ -569,16 +561,38 @@
       "\"about\"": "Amiodarone (M2) - PH663"
     }
   ],
+  "{\"\\\"name\\\"\": \"Alopecia-areata---d11f1fd0-175d-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Alopecia areata - PH96\"}": [
+    {
+      "\"name\"": "Alopecia-areata---d0865610-684d-11ef-918f-350181f4a5db",
+      "\"about\"": "r4YRoHFR7kPLvRE6RZwvoF5yN4 - Alopecia areata"
+    }
+  ],
   "{\"\\\"name\\\"\": \"Ankylosing-spondylitis---6fcee750-175e-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Ankylosing spondylitis - PH99\"}": [
     {
       "\"name\"": "Ankylosing-Spondylitis---bec81e50-1a95-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Ankylosing Spondylitis - PH595"
+    },
+    {
+      "\"name\"": "Ankylosing-spondylitis---79165820-684e-11ef-918f-350181f4a5db",
+      "\"about\"": "GOLABK4e8lYaqvFvmYnuKZseKOc - Ankylosing spondylitis"
+    }
+  ],
+  "{\"\\\"name\\\"\": \"Appendicitis---645519a0-1761-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Appendicitis - PH106\"}": [
+    {
+      "\"name\"": "Appendicitis---c8a953a0-684f-11ef-918f-350181f4a5db",
+      "\"about\"": "1v5LWEkguNB5wuVglN08Fugth8 - Appendicitis"
     }
   ],
   "{\"\\\"name\\\"\": \"Atrioventricular-block-first-degree---a9f71c40-1763-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Atrioventricular block, first degree - PH113\"}": [
     {
       "\"name\"": "Atrioventricular-block-second-degree---deb0bae0-1763-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Atrioventricular block, second degree - PH114"
+    }
+  ],
+  "{\"\\\"name\\\"\": \"Crohns-disease---bb9cad60-1773-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Crohn's disease - PH144\"}": [
+    {
+      "\"name\"": "Crohns-disease---c40a0fb0-6854-11ef-918f-350181f4a5db",
+      "\"about\"": "JsxfGmY6LkP0rUl21s0gJEtfCUI - Crohns disease"
     }
   ],
   "{\"\\\"name\\\"\": \"Dementia---07399a10-1776-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Dementia - PH148\"}": [
@@ -615,6 +629,12 @@
       "\"about\"": "Dementia - PH473"
     }
   ],
+  "{\"\\\"name\\\"\": \"Dermatitis---f5bf5980-1777-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Dermatitis (atopc/contact/other/unspecified) - PH150\"}": [
+    {
+      "\"name\"": "Dermatitis-herpetiformis---7f7ecce0-6855-11ef-918f-350181f4a5db",
+      "\"about\"": "QixJ4QeAmZ1lpuX3qMios06IvHQ - Dermatitis herpetiformis"
+    }
+  ],
   "{\"\\\"name\\\"\": \"Epilepsy---ebfebb40-177f-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Epilepsy - PH165\"}": [
     {
       "\"name\"": "Epilepsy---2ecb3cb0-1964-11ef-9de4-4d4ea830ad16",
@@ -627,6 +647,16 @@
     {
       "\"name\"": "Epilepsy---d1925880-1ad5-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Epilepsy - PH630"
+    },
+    {
+      "\"name\"": "Epilepsy---274e3e10-6856-11ef-918f-350181f4a5db",
+      "\"about\"": "JquyvOJqqdiosr3RSKfmqurPvc - Epilepsy"
+    }
+  ],
+  "{\"\\\"name\\\"\": \"Juvenile-arthritis---24b8d5b0-178f-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Juvenile arthritis - PH196\"}": [
+    {
+      "\"name\"": "Arthritis---9d3f0f50-6851-11ef-918f-350181f4a5db",
+      "\"about\"": "AS1z1SYZR5CGhhHvvEdzInOY8 - Arthritis"
     }
   ],
   "{\"\\\"name\\\"\": \"Leukaemia---26b52570-1790-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Leukaemia - PH199\"}": [
@@ -653,6 +683,16 @@
     {
       "\"name\"": "Migraine---379752b0-1965-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Migraine - PH469"
+    },
+    {
+      "\"name\"": "Migraine---0bc11d60-685c-11ef-918f-350181f4a5db",
+      "\"about\"": "WYPIFv2c5hCSzllNdQugAw1AJbQ - Migraine"
+    }
+  ],
+  "{\"\\\"name\\\"\": \"Myasthenia-gravis---046923e0-1795-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Myasthenia gravis - PH213\"}": [
+    {
+      "\"name\"": "Myasthenia-gravis---123a69c0-685d-11ef-918f-350181f4a5db",
+      "\"about\"": "iXiAS1y1QmKSlmeTt4Xot2OwP8U - Myasthenia gravis"
     }
   ],
   "{\"\\\"name\\\"\": \"Myocardial-infarction---b32f9260-1795-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Myocardial infarction - PH215\"}": [
@@ -715,12 +755,28 @@
     {
       "\"name\"": "Peripheral-Arterial-Disease---25dd08a0-20ca-11ef-ba9f-3d1e4076db47",
       "\"about\"": "Peripheral Arterial Disease - PH432"
+    },
+    {
+      "\"name\"": "Peripheral-arterial-disease---e07d6520-6863-11ef-918f-350181f4a5db",
+      "\"about\"": "aQxYt9iGNl6FuBMeNdYbVtKZLxY - Peripheral arterial disease"
+    }
+  ],
+  "{\"\\\"name\\\"\": \"Sarcoidosis---11d6c090-17b9-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Sarcoidosis - PH284\"}": [
+    {
+      "\"name\"": "Sarcoidosis---2ff221a0-6912-11ef-918f-350181f4a5db",
+      "\"about\"": "XBj8VEJypxxgETJWmdh2s4rpT5k - Sarcoidosis"
     }
   ],
   "{\"\\\"name\\\"\": \"Sleep-apnoea---474b4690-17c0-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Sleep apnoea - PH309\"}": [
     {
       "\"name\"": "Sleep-Apnoea---270955f0-1ce0-11ef-bdee-f10829e63eeb",
       "\"about\"": "Sleep Apnoea - PH861"
+    }
+  ],
+  "{\"\\\"name\\\"\": \"Ulcerative-colitis---2cfdb880-17cb-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Ulcerative colitis - PH326\"}": [
+    {
+      "\"name\"": "Ulcerative-colitis---65b32f10-691b-11ef-918f-350181f4a5db",
+      "\"about\"": "YsIIUfpdG5rLwUN4YUsOUT0 - Ulcerative colitis"
     }
   ],
   "{\"\\\"name\\\"\": \"Peptic-ulcer-disease---afc97470-17cb-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Peptic ulcer disease - PH327\"}": [
@@ -741,6 +797,12 @@
     {
       "\"name\"": "Urinary-Tract-Infection---8dce1590-1d4f-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Urinary Tract Infection (UTI) - PH907"
+    }
+  ],
+  "{\"\\\"name\\\"\": \"Vitiligo---e256c060-17cf-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Vitiligo - PH336\"}": [
+    {
+      "\"name\"": "Vitiligo---18873690-691c-11ef-918f-350181f4a5db",
+      "\"about\"": "zKYI1PSH4bnZcIdbGKj2tCs69o - Vitiligo"
     }
   ],
   "{\"\\\"name\\\"\": \"Homelessness---a78bd470-181a-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Homelessness - PH344\"}": [
@@ -1047,6 +1109,10 @@
     {
       "\"name\"": "Hypothyroidism---9743d2b0-1ad7-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Hypothyroidism - PH633"
+    },
+    {
+      "\"name\"": "Hypothyroidism---37404940-685a-11ef-918f-350181f4a5db",
+      "\"about\"": "TjdWKXyrZ0QKJMm6jeH2NQE21o - Hypothyroidism"
     }
   ],
   "{\"\\\"name\\\"\": \"Influenza-Immunisation---d64fe1c0-187e-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Influenza Immunisation - PH425\"}": [
@@ -1175,6 +1241,44 @@
       "\"about\"": "Attention-deficit/hyperactivity disorder (ADHD) - PH581"
     }
   ],
+  "{\"\\\"name\\\"\": \"Type-2-Diabetes---b30a8860-19bd-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Type 2 Diabetes - PH490\"}": [
+    {
+      "\"name\"": "Type-2-Diabetes---dfc54970-1a27-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Type 2 Diabetes - PH569"
+    },
+    {
+      "\"name\"": "Type-2-Diabetes---7fcbd1f0-1bd6-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Type 2 Diabetes - PH718"
+    },
+    {
+      "\"name\"": "Type-2-Diabetes---1c10b020-1c28-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Type 2 Diabetes - PH753"
+    },
+    {
+      "\"name\"": "Type-2-Diabetes---213f58c0-1d55-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "Type 2 Diabetes (Diagnostic Codes) - PH913"
+    },
+    {
+      "\"name\"": "Type-2-Diabetes---743dc460-1d57-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "Type 2 Diabetes (Exclusion Codes) - PH914"
+    },
+    {
+      "\"name\"": "Type-2-Diabetes---f6fa8c30-1d57-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "Type 2 Diabetes (Hba1C Test Codes) - PH915"
+    },
+    {
+      "\"name\"": "Type-2-diabetes---aa4f25a0-6918-11ef-918f-350181f4a5db",
+      "\"about\"": "j07FlOzgjK8ISUpgEknawmlKpM - Type 2 diabetes"
+    },
+    {
+      "\"name\"": "Type-2-diabetes---79d1bf30-691a-11ef-918f-350181f4a5db",
+      "\"about\"": "quXWfgRu09EoW6fYvp4aSo7etKA - Type 2 diabetes"
+    },
+    {
+      "\"name\"": "Type-2-diabetes---c20246d0-691a-11ef-918f-350181f4a5db",
+      "\"about\"": "ilTwyAgg8W3GctjSaPis1QnGF0 - Type 2 diabetes"
+    }
+  ],
   "{\"\\\"name\\\"\": \"Alpha-Blockers---58e77b90-19c2-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Alpha Blockers - PH493\"}": [
     {
       "\"name\"": "Alpha-Blockers---7fb1a850-1bd8-11ef-bdee-f10829e63eeb",
@@ -1281,18 +1385,10 @@
       "\"about\"": "Conduct Disorder - PH934"
     }
   ],
-  "{\"\\\"name\\\"\": \"Rheumatoid-Arthritis-Group1---7f4f0be0-1a99-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Rheumatoid Arthritis Group1 - PH601\"}": [
+  "{\"\\\"name\\\"\": \"Psoriatic-Arthritis---417aa590-1a99-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Psoriatic Arthritis - PH600\"}": [
     {
-      "\"name\"": "Rheumatoid-Arthritis-Group2---b8b01280-1a99-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Rheumatoid Arthritis Group2 - PH602"
-    },
-    {
-      "\"name\"": "Rheumatoid-Arthritis-Group3---10782610-1a9a-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Rheumatoid Arthritis Group3 - PH603"
-    },
-    {
-      "\"name\"": "Rheumatoid-Arthritis-Group4---5cd05e60-1a9a-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Rheumatoid Arthritis Group4 - PH604"
+      "\"name\"": "Psoriatic-arthritis---f03acbc0-6867-11ef-918f-350181f4a5db",
+      "\"about\"": "DuxW8jSR7hxZe8OJPXvHTQhlh0 - Psoriatic arthritis"
     }
   ],
   "{\"\\\"name\\\"\": \"Beta-Blockers---2d512810-1ade-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Beta Blockers - PH642\"}": [
@@ -1345,6 +1441,16 @@
       "\"about\"": "Lipid Lowering Agents - PH926"
     }
   ],
+  "{\"\\\"name\\\"\": \"Type-1-Diabetes---bcced3f0-1bd5-11ef-bdee-f10829e63eeb\", \"\\\"about\\\"\": \"Type 1 Diabetes - PH717\"}": [
+    {
+      "\"name\"": "Type-1-Diabetes---2d8a10e0-1c27-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Type 1 Diabetes - PH752"
+    },
+    {
+      "\"name\"": "Type-1-diabetes---1ad04af0-6916-11ef-918f-350181f4a5db",
+      "\"about\"": "ZKk59wlvBIVUmd3156TmHJp914 - Type 1 diabetes"
+    }
+  ],
   "{\"\\\"name\\\"\": \"AIDS---ec22d8c0-1bd7-11ef-bdee-f10829e63eeb\", \"\\\"about\\\"\": \"AIDS - PH721\"}": [
     {
       "\"name\"": "AIDS---013b45d0-1d22-11ef-94c0-09c4aef33dd3",
@@ -1379,6 +1485,10 @@
     {
       "\"name\"": "Renal-Disease---7bdfc630-1d40-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Renal Disease - PH890"
+    },
+    {
+      "\"name\"": "Renal---3826d670-690f-11ef-918f-350181f4a5db",
+      "\"about\"": "EtE3YufoK2xIGMn9xe2KYlKj640 - Renal"
     }
   ],
   "{\"\\\"name\\\"\": \"Rheumatological-Disease---9992c2e0-1c23-11ef-bdee-f10829e63eeb\", \"\\\"about\\\"\": \"Rheumatological Disease - PH747\"}": [
@@ -1423,182 +1533,40 @@
       "\"about\"": "Alcohol Consumption - PH9"
     }
   ],
-  "{\"\\\"name\\\"\": \"CCU000-Acute-Myocardial-Infarction---cb0f48b0-1db4-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"CCU000 Acute Myocardial Infarction (AMI) - PH942\"}": [
-    {
-      "\"name\"": "CCU002_01-Acute-myocardial-infarction---862d2f30-21da-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_01 Acute myocardial infarction - PH949"
-    },
-    {
-      "\"name\"": "CCU002_02-Acute-Myocardial-Infarction---9c9b4cd0-2256-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Acute Myocardial Infarction (AMI) - PH988"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU000-COVID-19---915d4670-1db5-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"CCU000 COVID-19 - PH943\"}": [
-    {
-      "\"name\"": "CCU002_01-COVID19-infection---3dc4aad0-21de-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_01 COVID19 infection - PH952"
-    },
-    {
-      "\"name\"": "CCU013_01-COVID-19-infection---feda3c30-2283-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU013_01 COVID-19 infection - PH1020"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU000-Deep-Vein-Thrombosis---1aab44e0-1db6-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"CCU000 Deep Vein Thrombosis (dvt) - PH944\"}": [
-    {
-      "\"name\"": "CCU002_02-Deep-vein-thrombosis---49528ec0-2275-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Deep vein thrombosis (DVT) - PH1007"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU000-Diabetes---01d2fd40-1db7-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"CCU000 Diabetes - PH945\"}": [
-    {
-      "\"name\"": "CCU002_02-Diabetes---32f22c50-2273-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Diabetes - PH1006"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU000-Life-threatening-arrhythmias---2b459370-1db9-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"CCU000 Life threatening arrhythmias - PH946\"}": [
-    {
-      "\"name\"": "CCU002_01-Life-threatening-arrhythmias---87285da0-2212-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_01 Life threatening arrhythmias - PH971"
-    },
-    {
-      "\"name\"": "CCU002_02-Life-threatening-arrhythmias---f71bad50-227c-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Life threatening arrhythmias - PH1011"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU000-Obesity---750e6e50-1db9-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"CCU000 Obesity - PH947\"}": [
-    {
-      "\"name\"": "CCU002_01-Obesity---eb0b6cd0-224f-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_01 Obesity - PH976"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU000-Stroke---5d6557e0-1dba-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"CCU000 Stroke - PH948\"}": [
-    {
-      "\"name\"": "CCU002_01-Stroke---c4c109f0-2253-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_01 Stroke - PH983"
-    },
-    {
-      "\"name\"": "CCU002_02-Stroke---d4108500-2282-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Stroke - PH1018"
-    }
-  ],
   "{\"\\\"name\\\"\": \"Depression-Elixhauser-primary-care---ad1c5ab0-1dfe-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"Depression Elixhauser primary care - PH1076\"}": [
     {
       "\"name\"": "Depression--Primary-Care---50748e80-2287-11ef-ba9f-3d1e4076db47",
       "\"about\"": "Depression- Primary Care - PH1021"
     }
   ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Chronic-Kidney-Disease---ee4c7fc0-21db-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Chronic Kidney Disease (CKD) - PH950\"}": [
+  "{\"\\\"name\\\"\": \"Long-covid---fe190690-2419-11ef-92ec-515864bc885c\", \"\\\"about\\\"\": \"Diagnosis of long covid symptoms 31 days to 186 days after covid19 following covid19 hospitalisation, without a record of long covid - tHzJwrp4q17O4oOmVo717R9m2g\"}": [
     {
-      "\"name\"": "CCU002_02-Chronic-Kidney-Disease---b23b3ae0-2257-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Chronic Kidney Disease (CKD) - PH990"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Chronic-obstructive-pulmonary-disease---78ecd250-21dd-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Chronic obstructive pulmonary disease (COPD) - PH951\"}": [
+      "\"name\"": "Long-covid---0043aec0-241a-11ef-92ec-515864bc885c",
+      "\"about\"": "Diagnosis of long covid symptoms 31 days to 186 days after covid19, without a record of long covid and covid19 hospitalisation - tHzJwrp4q17O4oOmVo717R9m2g"
+    },
     {
-      "\"name\"": "CCU002_02-Chronic-obstructive-pulmonary-disease---3ddbdbe0-2258-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Chronic obstructive pulmonary disease (COPD) - PH991"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Anticoagulant-medication---1d102410-21e1-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Anticoagulant medication - PH957\"}": [
+      "\"name\"": "Long-covid---00d05e60-241a-11ef-92ec-515864bc885c",
+      "\"about\"": "Long covid following covid19 hospitalisation and covid19 - Nca9JAE6vRzs2eNdpCh5E1CO9tw"
+    },
     {
-      "\"name\"": "CCU002_02-Anticoagulant-medication---1b8ba680-225b-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Anticoagulant medication - PH998"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Antiplatelet-medication---aad6b250-21e1-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Antiplatelet medication - PH958\"}": [
+      "\"name\"": "Long-covid---01604250-241a-11ef-92ec-515864bc885c",
+      "\"about\"": "Long covid following covid19, without a record of covid19 hospitalisation - Nca9JAE6vRzs2eNdpCh5E1CO9tw"
+    },
     {
-      "\"name\"": "CCU002_02-Antiplatelet-medication---a744b180-225b-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Antiplatelet medication - PH999"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Dissection-of-artery---48ee5880-21e2-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Dissection of artery - PH959\"}": [
+      "\"name\"": "Long-covid---01dcc550-241a-11ef-92ec-515864bc885c",
+      "\"about\"": "Long covid, without a record of covid19 - qfaKAqHl3x8UQnVii9fP5JMzoGY"
+    },
     {
-      "\"name\"": "CCU002_02-Dissection-of-artery---45bacb60-225c-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Dissection of artery - PH1000"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Cancer---b44c4230-21f7-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Cancer - PH960\"}": [
+      "\"name\"": "Long-covid---01dd1370-241a-11ef-92ec-515864bc885c",
+      "\"about\"": "Long covid - BXq6MWeCqisLe2Lderw2Y0kbc"
+    },
     {
-      "\"name\"": "CCU002_02-Cancer---59c683e0-2268-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Cancer - PH1001"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Cardiomyopathy---71e7b650-2200-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Cardiomyopathy - PH961\"}": [
+      "\"name\"": "Covid---d6283c60-3976-11ef-918f-350181f4a5db",
+      "\"about\"": "Covid - LoCSldgykhqUTjsCZaVQjosBY"
+    },
     {
-      "\"name\"": "CCU002_02-Cardiomyopathy---25ceb500-2270-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Cardiomyopathy - PH1002"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Contraceptive-medication---17a9f260-2201-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Contraceptive medication - PH962\"}": [
-    {
-      "\"name\"": "CCU002_02-Contraceptive-medication---85c9c850-2270-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Contraceptive medication - PH1003"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Dementia---c91a7240-2201-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Dementia - PH963\"}": [
-    {
-      "\"name\"": "CCU002_02-Dementia---1ef905e0-2271-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Dementia - PH1004"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Depression---1ed8b6a0-2203-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Depression - PH964\"}": [
-    {
-      "\"name\"": "CCU002_02-Depression---ff45d470-2271-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Depression - PH1005"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Hormone-replacement-therapy---afc11a20-220a-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Hormone replacement therapy (HRT) - PH969\"}": [
-    {
-      "\"name\"": "CCU002_02-Hormone-replacement-therapy---ca32f570-2275-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Hormone replacement therapy (HRT) - PH1008"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Hypertension---4ec0f610-220e-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Hypertension - PH970\"}": [
-    {
-      "\"name\"": "CCU002_02-Hypertension---4125acb0-2279-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Hypertension - PH1010"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Lipid_lowering-medication---ea4aefb0-2212-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Lipid_lowering medication - PH972\"}": [
-    {
-      "\"name\"": "CCU002_02-Lipid-lowering-medication---1bc713f0-227e-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Lipid lowering medication - PH1013"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Liver-disease---394bff10-224e-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Liver disease - PH973\"}": [
-    {
-      "\"name\"": "CCU002_02-Liver-disease---b6d2e440-227f-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Liver disease - PH1014"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Smoking-status---99582c90-2252-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Smoking status - PH982\"}": [
-    {
-      "\"name\"": "CCU002_02-Smoking-status---3408a790-2282-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Smoking status - PH1017"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Thrombocytopenia---d1e5a4a0-2254-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Thrombocytopenia - PH984\"}": [
-    {
-      "\"name\"": "CCU002_02-Thrombocytopenia---3e4e61e0-225a-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Thrombocytopenia - PH996"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_01-Thrombophilia---3f5081e0-2255-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_01 Thrombophilia - PH985\"}": [
-    {
-      "\"name\"": "CCU002_02-Thrombophilia---906ff050-2283-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Thrombophilia - PH1019"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"CCU002_02-Heart-Failure---0d0f6080-2259-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"CCU002_02 Heart Failure (HF) - PH993\"}": [
-    {
-      "\"name\"": "CCU002_01-Heart-failure---d3c27e70-2366-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_01 Heart failure - PH968"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Death-by-certain-conditions-originating-in-the-perinatal---a731dfd0-22ea-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"Death by certain conditions originating in the perinatal - PH1487\"}": [
-    {
-      "\"name\"": "Death-by-certain-conditions-originating-in-the-perinatal---16f8fa20-237b-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "Death by certain conditions originating in the perinatal period (natural cause) - PH1487"
+      "\"name\"": "Long-covid---4bb839e0-397b-11ef-918f-350181f4a5db",
+      "\"about\"": "Long covid - ZhuuOh7JC1cUoRzdSzvH5pas6k"
     }
   ]
 }
