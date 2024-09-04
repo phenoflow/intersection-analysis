@@ -269,10 +269,6 @@
       "\"about\"": "Diabetes - PH152"
     },
     {
-      "\"name\"": "Diabetes-mellitus-of-various-forms---a6b97c60-1832-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Diabetes mellitus, of various forms - PH349"
-    },
-    {
       "\"name\"": "Diabetes-Medication---3541e3f0-1847-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Diabetes Medication - PH374"
     },
@@ -291,14 +287,6 @@
     {
       "\"name\"": "Diabetes---b8c00ec0-19ee-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Diabetes - PH520"
-    },
-    {
-      "\"name\"": "Diabetes-Mellitus-Type-II---55276580-19f2-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Diabetes Mellitus Type II (DMII) - PH522"
-    },
-    {
-      "\"name\"": "Diabetes-Mellitus---29c90da0-1a2c-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Diabetes Mellitus - PH573"
     },
     {
       "\"name\"": "Diabetes---e53eb430-1a37-11ef-9de4-4d4ea830ad16",
@@ -321,10 +309,6 @@
       "\"about\"": "Diabetes - PH832"
     },
     {
-      "\"name\"": "Diabetes-With-Complications---a1ac26d0-1d39-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Diabetes With Complications - PH879"
-    },
-    {
       "\"name\"": "Diabetes---5845e8e0-1d3a-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Diabetes - PH880"
     },
@@ -345,16 +329,8 @@
       "\"about\"": "Diabetes (uncomplicated) Charlson primary care - PH1067"
     },
     {
-      "\"name\"": "Diabetes-with-end-organ-damage-Charlson-primary-care---bc9f6350-1df5-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Diabetes with end-organ damage Charlson primary care - PH1068"
-    },
-    {
       "\"name\"": "Diabetes-Elixhauser-primary-care---398956f0-1e00-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Diabetes (uncomplicated) Elixhauser primary care - PH1077"
-    },
-    {
-      "\"name\"": "Diabetes-with-end-organ-damage-Elixhauser-primary-care---363d7560-1e02-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Diabetes with end-organ damage Elixhauser primary care - PH1078"
     },
     {
       "\"name\"": "Diabetes-Mellitus---872f75f0-20c7-11ef-ba9f-3d1e4076db47",
@@ -363,6 +339,102 @@
     {
       "\"name\"": "Diabetes---bfa45a20-3979-11ef-918f-350181f4a5db",
       "\"about\"": "Diabetes - 8ePuwZd7p1pyj8eq9T8uLeJYCA"
+    },
+    {
+      "\"name\"": "Dpp4---09d1dab0-19f3-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Dpp4 - PH523"
+    },
+    {
+      "\"name\"": "Gpl1---8c5dc720-19f6-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Gpl1 - PH528"
+    },
+    {
+      "\"name\"": "Insulin---723b7680-19fb-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Insulin - PH538"
+    },
+    {
+      "\"name\"": "Meglitinide---1cf018d0-20f8-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "Meglitinide - PH545"
+    },
+    {
+      "\"name\"": "Metformin---3d721d70-1a1c-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Metformin - PH546"
+    },
+    {
+      "\"name\"": "Sulfonylureas---76fa76a0-1a26-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Sulfonylureas - PH566"
+    },
+    {
+      "\"name\"": "Thiazolidinediones---1473b9f0-1a27-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Thiazolidinediones - PH567"
+    },
+    {
+      "\"name\"": "Antidiabetic-Medications---c8208cc0-1bbd-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Antidiabetic Medications - PH710"
+    },
+    {
+      "\"name\"": "Acarbose---a74b8e40-1bd7-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Acarbose - PH720"
+    },
+    {
+      "\"name\"": "Glp-1Receptoragonists---20f140a0-1c14-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Glp-1Receptoragonists - PH734"
+    },
+    {
+      "\"name\"": "Insulin---04bad9e0-1c15-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Insulin - PH736"
+    },
+    {
+      "\"name\"": "Metformin---2216a670-1c17-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Metformin - PH738"
+    },
+    {
+      "\"name\"": "Sglt-2Inhibitors---922c6c80-1c24-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Sglt-2Inhibitors - PH748"
+    },
+    {
+      "\"name\"": "Sulfonylureas---0674d630-1c26-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Sulfonylureas - PH750"
+    },
+    {
+      "\"name\"": "Thiazolidinediones---b8c49280-1c26-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Thiazolidinediones - PH751"
+    },
+    {
+      "\"name\"": "Hba1C---7e8c3670-1d1d-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "Hba1C - PH833"
+    },
+    {
+      "\"name\"": "Insulin---29ff8250-1d1e-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "Insulin - PH834"
+    },
+    {
+      "\"name\"": "Insulin---fb6cf160-1d1e-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "Insulin - PH835"
+    },
+    {
+      "\"name\"": "Metformin---74b729a0-1cd4-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Metformin - PH836"
+    },
+    {
+      "\"name\"": "Metformin---6da8b740-1cd5-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Metformin - PH837"
+    },
+    {
+      "\"name\"": "Anti-Diabetics---89b99330-1d59-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "Anti-Diabetics - PH916"
+    },
+    {
+      "\"name\"": "CCU000-Diabetes---01d2fd40-1db7-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "CCU000 Diabetes - PH945"
+    },
+    {
+      "\"name\"": "CCU002_01-Diabetes-and-diabates-medication---a80de070-2204-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "CCU002_01 Diabetes and diabates medication - PH965"
+    },
+    {
+      "\"name\"": "CCU002_02-Diabetes---32f22c50-2273-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "CCU002_02 Diabetes - PH1006"
     }
   ],
   "{\"\\\"name\\\"\": \"Asthma---47a14f80-16f4-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Asthma - PH12\"}": [
@@ -1953,25 +2025,7 @@
       "\"about\"": "Dpp-4Inhibitors - PH732"
     }
   ],
-  "{\"\\\"name\\\"\": \"Hba1C-Testing---d0e89f50-19f6-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Hba1C Testing - PH529\"}": [
-    {
-      "\"name\"": "Hba1C---7e8c3670-1d1d-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Hba1C - PH833"
-    }
-  ],
   "{\"\\\"name\\\"\": \"Insulin---723b7680-19fb-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Insulin - PH538\"}": [
-    {
-      "\"name\"": "Insulin---04bad9e0-1c15-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Insulin - PH736"
-    },
-    {
-      "\"name\"": "Insulin---29ff8250-1d1e-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Insulin - PH834"
-    },
-    {
-      "\"name\"": "Insulin---fb6cf160-1d1e-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Insulin - PH835"
-    },
     {
       "\"name\"": "Insulin---a6de0590-230d-11ef-ba9f-3d1e4076db47",
       "\"about\"": "Insulin - PH1602"
@@ -2007,18 +2061,6 @@
     {
       "\"name\"": "Metformin---33731de0-1ba9-11ef-bdee-f10829e63eeb",
       "\"about\"": "Metformin (P8) - PH688"
-    },
-    {
-      "\"name\"": "Metformin---2216a670-1c17-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Metformin - PH738"
-    },
-    {
-      "\"name\"": "Metformin---74b729a0-1cd4-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Metformin - PH836"
-    },
-    {
-      "\"name\"": "Metformin---6da8b740-1cd5-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Metformin - PH837"
     }
   ],
   "{\"\\\"name\\\"\": \"Microvascular-Complications---12ce04c0-1a1d-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Microvascular Complications - PH548\"}": [
@@ -2039,18 +2081,6 @@
     {
       "\"name\"": "Statin---283ef7b0-1d4c-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Statin - PH898"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Sulfonylureas---76fa76a0-1a26-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Sulfonylureas - PH566\"}": [
-    {
-      "\"name\"": "Sulfonylureas---0674d630-1c26-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Sulfonylureas - PH750"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Thiazolidinediones---1473b9f0-1a27-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Thiazolidinediones - PH567\"}": [
-    {
-      "\"name\"": "Thiazolidinediones---b8c49280-1c26-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Thiazolidinediones - PH751"
     }
   ],
   "{\"\\\"name\\\"\": \"Autism-Spectrum---e343bc00-1a8e-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Autism Spectrum - PH583\"}": [
