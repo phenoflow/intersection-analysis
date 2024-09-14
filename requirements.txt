@@ -1,1 +1,4 @@
 black[jupyter]
+pandas
+numpy
+matplotlib

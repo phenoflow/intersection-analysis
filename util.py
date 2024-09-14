@@ -2,7 +2,7 @@ from functools import reduce
 from itertools import zip_longest
 
 
-def filterFirstOccurences(array):
+def filterFirstOccurrences(array):
     transposed = list(zip(*array))
     unique_columns = [
         reduce(

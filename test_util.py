@@ -1,19 +1,19 @@
 import unittest
 
-from util import filterFirstOccurences
+from util import filterFirstOccurrences
 
 
 class TestUtil(unittest.TestCase):
-    def test_filterFirstOccurences(self):
+    def test_filterFirstOccurrences(self):
         self.assertEqual(
-            filterFirstOccurences([[1, 2], [1, 3], [2, 4], [3, 4]]), [[1, 2], [2, 4]]
+            filterFirstOccurrences([[1, 2], [1, 3], [2, 4], [3, 4]]), [[1, 2], [2, 4]]
         )
         self.assertNotEqual(
-            filterFirstOccurences([[1, 2], [1, 3], [2, 4], [3, 4]]),
+            filterFirstOccurrences([[1, 2], [1, 3], [2, 4], [3, 4]]),
             [[1, 2], [1, 3], [2, 4], [3, 4]],
         )
         self.assertEqual(
-            filterFirstOccurences(
+            filterFirstOccurrences(
                 [
                     [
                         'neuropathy-ccu000-diabetes---secondary.cwl',
