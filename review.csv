@@ -1,0 +1,255 @@
+condition group,group member,classification
+Acute-Kidney-Injury,Acute-Kidney-Injury,true positive
+Ethnic-Status,Ethnicity,true positive
+Ethnic-Status,Ethnicity,true positive
+Ethnic-Status,Ethnicity,true positive
+Depression,Depression,true positive
+Depression,Depression,true positive
+Depression,Depression,true positive
+Depression,Depression,true positive
+Depression,Depression,true positive
+Depression,Depression,true positive
+Depression,Depression,true positive
+Depression,Depression,true positive
+Depression,Depression,true positive
+Depression,Depression,true positive
+Depression,Depression,true positive
+Depression,CCU002_02-Depression,true positive
+Depression,Depression-Elixhauser-primary-care,true positive
+Depression,CCU002_01-Depression,true positive
+Intellectual-disability,Intellectual,unsure
+Rheumatoid-Arthritis,Rheumatoid-Arthritis,true positive
+Rheumatoid-Arthritis,Rheumatoid-Arthritis,true positive
+Rheumatoid-Arthritis,Rheumatoid-Arthritis,true positive
+Rheumatoid-Arthritis,Rheumatoid-arthritis,true positive
+Rheumatoid-Arthritis,Rheumatoid-arthritis,true positive
+Rheumatoid-Arthritis,Rheumatoid-arthritis,true positive
+Rheumatoid-Arthritis,Rheumatoid-arthritis,true positive
+Rheumatoid-Arthritis,Rheumatoid-Arthritis-Group1,true positive
+Anxiety,Anxiety,true positive
+Anxiety,Anxiety,true positive
+Anxiety,Anxiety,true positive
+Anxiety,Anxiety,true positive
+Anxiety,Anxiety,true positive
+Anxiety,Anxiety,true positive
+Anxiety,Antidepressants,true positive
+Anxiety,Benzodiazepines,true positive
+Abdominal-aortic-aneurysm,Abdominal-Aortic-Aneurysm,true positive
+Abdominal-aortic-aneurysm,Abdominal-aortic-aneurysm,true positive
+Crohns-disease,Crohns-disease,true positive
+Leukaemia,Leukaemia,true positive
+Pneumonia,Pneumonia-Primary-care,true positive
+Pneumonia,Pneumonia-Secondary-care,true positive
+Pneumonia,Pneumonia-Biobank,true positive
+Pneumonia,Pneumonia,true positive
+Ischaemic-Heart-Disease,Ischaemic-Heart-Disease,true positive
+Alcohol-Problems,Alcohol,true positive
+Alcohol-Problems,Alcohol-Status,true positive
+Alcohol-Problems,Alcohol-use,true positive
+Osteoarthritis,Osteoarthritis,true positive
+Osteoarthritis,Osteoarthritis,true positive
+Osteoarthritis,Osteoarthritis,true positive
+Osteoarthritis,OsteoArthritis,true positive
+Hearing-loss,Hearing-loss,true positive
+Bipolar-affective-disorder-and-mania,Bipolar-Disorder,true positive
+Bipolar-affective-disorder-and-mania,Bipolar-Disorder,true positive
+Bipolar-affective-disorder-and-mania,Bipolar-Disorder,true positive
+Bipolar-affective-disorder-and-mania,Bipolar,true positive
+Bipolar-affective-disorder-and-mania,Bipolar-Disorder,true positive
+Lupus-erythematosus,Lupus-erythematosus,true positive
+Self-Harm,Self-Harm,true positive
+Self-Harm,Self-Harm,true positive
+Self-Harm,Self-Harm,true positive
+Self-Harm,Self-Harm,true positive
+Self-Harm,Self-Harm,true positive
+Self-Harm,Self-Harm,true positive
+Self-Harm,Self-harm,true positive
+Cardiovascular-Disease,Cardiovascular-Disease,true positive
+Cardiovascular-Disease,Cardiovascular-Disease,true positive
+Cardiovascular-Disease,Cardiovascular-Disease,true positive
+Cardiovascular-Disease,Cardiovascular-Disease,true positive
+Cardiovascular-Disease,Cardiovascular-Disease,true positive
+Cardiovascular-Disease,Antiplatelet-Agents,true positive
+Cardiovascular-Disease,Warfarin,true positive
+Cardiovascular-Disease,Lipid-lowering-medication,true positive
+Cardiovascular-Disease,Cardiovascular-Event,true positive
+Cardiovascular-Disease,Antihypertensives,true positive
+Cardiovascular-Disease,Cardiovascular-Disease-Risk-Score,true positive
+Cardiovascular-Disease,Insulin,false positive
+Cardiovascular-Disease,Antihypertensive-medication,true positive
+Cardiovascular-Disease,Cardiovascular-Events,true positive
+Cardiovascular-Disease,History-of-Pregnancy,false positive
+Cardiovascular-Disease,Antihypertensive-Drugs,true positive
+Cardiovascular-Disease,Antiplatelets,true positive
+Cardiovascular-Disease,Cardiovascular-Comorbidities,false positive
+Cardiovascular-Disease,Antiplatelets-secondary-prevention,true positive
+Cardiovascular-Disease,Angina-medication,false positive
+Cardiovascular-Disease,Cardiovascular-disease-medication,true positive
+Dementia,Dementia,true positive
+Dementia,Dementia,true positive
+Dementia,Dementia,true positive
+Dementia,Dementia,true positive
+Dementia,Dementia,true positive
+Dementia,Dementia,true positive
+Dementia,Dementia,true positive
+Dementia,Dementia,true positive
+Dementia,CCU002_01-Dementia,true positive
+Dementia,Antipsychotics,true positive
+Dementia,CCU002_02-Dementia,true positive
+Dementia,Depression,false positive
+End-stage-renal-disease,End-Stage-Renal-Disease,true positive
+Multiple-sclerosis,Multiple-sclerosis,true positive
+Multiple-sclerosis,Multiple-sclerosis,true positive
+Chronic-Kidney-Disease,Chronic-Kidney-Disease,true positive
+Chronic-Kidney-Disease,Chronic-Kidney-Disease,true positive
+Chronic-Kidney-Disease,Chronic-Kidney-Disease,true positive
+Chronic-Kidney-Disease,Chronic-Kidney-Disease,true positive
+Chronic-Kidney-Disease,Chronic-Kidney-Disease,true positive
+Chronic-Kidney-Disease,Chronic-Kidney-Disease,true positive
+Coronary-heart-disease-not-otherwise-specified,Coronary-Heart-Disease,true positive
+Coronary-heart-disease-not-otherwise-specified,Coronary-Heart-Disease,true positive
+Coronary-heart-disease-not-otherwise-specified,Coronary-Heart-Disease,true positive
+Coronary-heart-disease-not-otherwise-specified,Coronary-Heart-Disease,true positive
+Coronary-heart-disease-not-otherwise-specified,Coronary-Heart-Disease,true positive
+Coronary-heart-disease-not-otherwise-specified,Coronary-Heart-Disease,true positive
+Chronic-Obstructive-Pulmonary-Disease,Chronic-Obstructive-Pulmonary-Disease,true positive
+Chronic-Obstructive-Pulmonary-Disease,Chronic-Obstructive-Pulmonary-Disease,true positive
+Chronic-Obstructive-Pulmonary-Disease,Chronic-Obstructive-Pulmonary-Disease,true positive
+Chronic-Obstructive-Pulmonary-Disease,Chronic-Obstructive-Pulmonary-Disease,true positive
+Chronic-Obstructive-Pulmonary-Disease,Chronic-Obstructive-Pulmonary-Disease,true positive
+Chronic-Obstructive-Pulmonary-Disease,Chronic-Obstructive-Pulmonary-Disease,true positive
+Chronic-Obstructive-Pulmonary-Disease,Chronic-obstructive-pulmonary-disease-Primary-care,true positive
+Chronic-Obstructive-Pulmonary-Disease,Chronic-obstructive-pulmonary-disease-Secondary-care,true positive
+Chronic-Obstructive-Pulmonary-Disease,Chronic-obstructive-pulmonary-disease-Biobank,true positive
+Personality-disorders,Personality-Disorder,true positive
+Personality-disorders,Personality-Disorder,true positive
+Personality-disorders,Personality-Disorder,true positive
+Personality-disorders,Personality-Disorder,true positive
+Personality-disorders,Personality-Disorder,true positive
+Personality-disorders,Personality-Disorders,true positive
+Personality-disorders,Personality-Disorder,true positive
+Asthma,Asthma,
+Asthma,Asthma,
+Asthma,Asthma,
+Asthma,Asthma,
+Asthma,Asthma,
+Asthma,Asthma,
+Asthma,Asthma,
+Asthma,Asthma-Drugs,
+Asthma,Asthma-Biobank,
+Asthma,Asthma-Clinicals,
+Asthma,Asthma-Drugs,
+Cystic-Fibrosis,Cystic-Fibrosis,
+Cystic-Fibrosis,Cystic-Fibrosis,
+Dermatitis,Dermatitis-herpetiformis,
+Heart-failure,Heart-failure,
+Heart-failure,Heart-Failure,
+Heart-failure,Heart-Failure,
+Heart-failure,Heart-Failure,
+Heart-failure,Heart-Failure,
+Heart-failure,Heart-Failure,
+Heart-failure,Heart-failure,
+Heart-failure,Hypertension,
+Heart-failure,Diuretics-Thiazide,
+Heart-failure,Heart-failure-medication,
+Heart-failure,Ace-Inhibitors,
+Heart-failure,Beta-Blockers,
+Heart-failure,Congestive-heart-failure-Elixhauser-primary-care,
+Heart-failure,Hypertension,
+Heart-failure,Loop-Diuretics,
+Heart-failure,Hypertension,
+Heart-failure,Calcium-Channel-Blockers,
+Heart-failure,Dpp4,
+Stroke-NOS,Stroke,
+Stroke-NOS,Stroke,
+Stroke-NOS,Stroke,
+Stroke-NOS,Stroke,
+Stroke-NOS,Stroke,
+Stroke-NOS,Stroke,
+Lower-Respiratory-Tract-Infections,Respiratory-Tract-Infection,
+Lower-Respiratory-Tract-Infections,Respiratory-Tract-Infection,
+Lower-Respiratory-Tract-Infections,Lower-respiratory-tract-infection,
+Ankylosing-spondylitis,Ankylosing-Spondylitis,
+Ankylosing-spondylitis,Ankylosing-spondylitis,
+Tuberculosis,Tuberculosis-Secondary-care,
+Tuberculosis,Tuberculosis-Primary-care,
+Juvenile-arthritis,Arthritis,
+Migraine,Migraine,
+Migraine,Migraine,
+Giant-Cell-arteritis,Giant-cell-arteritis,
+Alopecia-areata,Alopecia-areata,
+Alopecia-areata,Alopecia,
+HIV,HIV-AIDS-Elixhauser-primary-care,
+HIV,HIV-AIDS-Charlson-primary-care,
+Polymyalgia-Rheumatica,Polymyalgia-rheumatica,
+Psoriasis,Psoriasis,
+Psoriasis,Psoriasis,
+Psoriasis,Psoriasis,
+Psoriasis,Psoriasis,
+Psoriasis,Psoriasis,
+Psoriasis,Psoriasis,
+Psoriasis,Psoriasis,
+Psoriasis,Psoriasis,
+Blood-Pressure,Blood-Pressure-Measurement,
+Diabetes,Diabetes,
+Diabetes,Diabetes,
+Diabetes,Diabetes,
+Diabetes,Diabetes,
+Diabetes,Diabetes,
+Diabetes,Diabetes,
+Diabetes,Diabetes,
+Diabetes,Diabetes,
+Diabetes,Diabetes,
+Diabetes,Diabetes,
+Diabetes,Diabetes,
+Diabetes,Diabetes,
+Diabetes,Diabetes,
+Diabetes,Diabetes,
+Diabetes,Diabetes,
+Diabetes,Diabetes-Charlson-primary-care,
+Diabetes,Diabetes-Elixhauser-primary-care,
+Diabetes,Acarbose,
+Diabetes,Sulfonylureas,
+Diabetes,Metformin,
+Diabetes,Sulfonylureas,
+Diabetes,Diabetes-Medication,
+Diabetes,Metformin,
+Diabetes,Metformin,
+Diabetes,Thiazolidinediones,
+Diabetes,Metformin,
+Diabetes,Acerbose,
+Diabetes,Diabetes-Comorbidities,
+Diabetes,Diabetes-with-end-organ-damage-Charlson-primary-care,
+Bacterial-Diseases,Bacterial-sepsis-of-newborn,
+Atrioventricular-block-first-degree,Atrioventricular-block-second-degree,
+Atrial-fibrillation,Atrial-Fibrillation,
+Atrial-fibrillation,Atrial-Fibrillation,
+Atrial-fibrillation,Atrial-fibrillation-medication,
+Appendicitis,Appendicitis,
+COVID-19-infection,Long-covid,
+COVID-19-infection,Long-covid,
+COVID-19-infection,Long-covid,
+COVID-19-infection,Long-covid,
+COVID-19-infection,Long-covid,
+COVID-19-infection,Long-covid,
+COVID-19-infection,Covid,
+COVID-19-infection,Long-covid,
+Epilepsy,Epilepsy,
+Epilepsy,Epilepsy-Clinicals,
+Epilepsy,Epilepsy-Drugs,
+Epilepsy,Epilepsy,
+Epilepsy,Epilepsy,
+Epilepsy,Epilepsy,
+Hypertension,Hypertension,
+Hypertension,Hypertension,
+Hypertension,Hypertension,
+Hypertension,Hypertension,
+Hypertension,Hypertension,
+Hypertension,Hypertension,
+Hypertension,Hypertension,
+Hypertension,Thiazolidinediones,
+Hypertension,CCU002_01-Hypertension,
+Hypertension,CCU002_02-Hypertension,
+Hypertension,Hypertension-Elixhauser-primary-care,
+Hypertension,Alpha-Blockers,
+Liver-fibrosis-sclerosis-and-cirrhosis,Infection-of-liver,
