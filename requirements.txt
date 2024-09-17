@@ -1,4 +1,6 @@
 black[jupyter]
+ipykernel
 pandas
 numpy
 matplotlib
+ipywidgets 
