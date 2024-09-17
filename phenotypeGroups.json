@@ -113,16 +113,16 @@
       "\"about\"": "Depression - x4qG6gIY1XrguO7fAOykO7hYlU"
     },
     {
-      "\"name\"": "CCU002_01-Depression---1ed8b6a0-2203-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_01 Depression - PH964"
-    },
-    {
       "\"name\"": "CCU002_02-Depression---ff45d470-2271-11ef-ba9f-3d1e4076db47",
       "\"about\"": "CCU002_02 Depression - PH1005"
     },
     {
       "\"name\"": "Depression-Elixhauser-primary-care---ad1c5ab0-1dfe-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Depression Elixhauser primary care - PH1076"
+    },
+    {
+      "\"name\"": "CCU002_01-Depression---1ed8b6a0-2203-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "CCU002_01 Depression - PH964"
     }
   ],
   "{\"\\\"name\\\"\": \"Self-Harm---c7a4e460-16ec-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Self Harm - PH4\"}": [
@@ -177,64 +177,20 @@
       "\"about\"": "Cardiovascular Disease - PH5"
     },
     {
-      "\"name\"": "Warfarin---7fc06340-2308-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "Warfarin - PH1598"
-    },
-    {
-      "\"name\"": "Angina-medication---24622c70-230f-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "Angina medication - PH1604"
-    },
-    {
-      "\"name\"": "History-of-Pregnancy---3e194b80-1da1-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "History of Pregnancy - PH923"
-    },
-    {
-      "\"name\"": "Cardiovascular-Events---89207610-19ac-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Cardiovascular Events - PH485"
-    },
-    {
-      "\"name\"": "Antihypertensive-Drugs---0be14b40-1bcb-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Antihypertensive Drugs - PH711"
-    },
-    {
-      "\"name\"": "Heparins---f2a07fd0-2308-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "Heparins - PH1599"
-    },
-    {
       "\"name\"": "Antiplatelet-Agents---ab285770-1bd0-11ef-bdee-f10829e63eeb",
       "\"about\"": "Antiplatelet Agents - PH712"
     },
     {
-      "\"name\"": "Hypertension---ed80f920-1d4b-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Hypertension (Drug Code) - PH897"
+      "\"name\"": "Warfarin---7fc06340-2308-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "Warfarin - PH1598"
     },
     {
-      "\"name\"": "Antihypertensive-medication---fef46130-2302-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "Antihypertensive medication - PH1595"
+      "\"name\"": "Lipid-lowering-medication---ad8e59c0-2309-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "Lipid-lowering medication - PH1600"
     },
     {
-      "\"name\"": "Antiplatelets---06f0cd60-1d6d-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Antiplatelets - PH918"
-    },
-    {
-      "\"name\"": "Type-2-Diabetes---7fcbd1f0-1bd6-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Type 2 Diabetes - PH718"
-    },
-    {
-      "\"name\"": "Atrial-fibrillation-medication---2e6a3f80-22fd-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "Atrial fibrillation medication - PH1594"
-    },
-    {
-      "\"name\"": "Antiplatelets-secondary-prevention---6f043590-2399-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "Antiplatelets secondary prevention (primary for diabetes mellitus) - PH1596"
-    },
-    {
-      "\"name\"": "Type-2-Diabetes---b30a8860-19bd-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Type 2 Diabetes - PH490"
-    },
-    {
-      "\"name\"": "Cardiovascular-disease-medication---71e1c150-240d-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "Cardiovascular disease medication - PH1103"
+      "\"name\"": "Cardiovascular-Event---98f661c0-1a34-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Cardiovascular Event - PH578"
     },
     {
       "\"name\"": "Antihypertensives---5cb53070-1d67-11ef-94c0-09c4aef33dd3",
@@ -243,6 +199,46 @@
     {
       "\"name\"": "Cardiovascular-Disease-Risk-Score---e69ab730-1a36-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Cardiovascular Disease (CVD) Risk Score - PH579"
+    },
+    {
+      "\"name\"": "Insulin---a6de0590-230d-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "Insulin - PH1602"
+    },
+    {
+      "\"name\"": "Antihypertensive-medication---fef46130-2302-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "Antihypertensive medication - PH1595"
+    },
+    {
+      "\"name\"": "Cardiovascular-Events---89207610-19ac-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Cardiovascular Events - PH485"
+    },
+    {
+      "\"name\"": "History-of-Pregnancy---3e194b80-1da1-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "History of Pregnancy - PH923"
+    },
+    {
+      "\"name\"": "Antihypertensive-Drugs---0be14b40-1bcb-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Antihypertensive Drugs - PH711"
+    },
+    {
+      "\"name\"": "Antiplatelets---06f0cd60-1d6d-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "Antiplatelets - PH918"
+    },
+    {
+      "\"name\"": "Cardiovascular-Comorbidities---ed98f4c0-1cd9-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Cardiovascular Comorbidities - PH840"
+    },
+    {
+      "\"name\"": "Antiplatelets-secondary-prevention---6f043590-2399-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "Antiplatelets secondary prevention (primary for diabetes mellitus) - PH1596"
+    },
+    {
+      "\"name\"": "Angina-medication---24622c70-230f-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "Angina medication - PH1604"
+    },
+    {
+      "\"name\"": "Cardiovascular-disease-medication---71e1c150-240d-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "Cardiovascular disease medication - PH1103"
     }
   ],
   "{\"\\\"name\\\"\": \"Psoriasis---8988d470-16f1-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Psoriasis - PH7\"}": [
@@ -341,36 +337,12 @@
       "\"about\"": "Diabetes - 8ePuwZd7p1pyj8eq9T8uLeJYCA"
     },
     {
-      "\"name\"": "Sulfonylureas---76fa76a0-1a26-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Sulfonylureas - PH566"
-    },
-    {
-      "\"name\"": "Diabetes-Comorbidities---f6eab580-1cda-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Diabetes Comorbidities - PH844"
-    },
-    {
-      "\"name\"": "Diabetes-with-end-organ-damage-Charlson-primary-care---bc9f6350-1df5-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Diabetes with end-organ damage Charlson primary care - PH1068"
-    },
-    {
-      "\"name\"": "Acerbose---0bc897e0-19c2-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Acerbose - PH492"
-    },
-    {
-      "\"name\"": "Metformin---74b729a0-1cd4-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Metformin - PH836"
-    },
-    {
-      "\"name\"": "Diabetes-Medication---3541e3f0-1847-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Diabetes Medication - PH374"
-    },
-    {
-      "\"name\"": "Thiazolidinediones---b8c49280-1c26-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Thiazolidinediones - PH751"
-    },
-    {
       "\"name\"": "Diabetes-Charlson-primary-care---c4782000-1df3-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Diabetes (uncomplicated) Charlson primary care - PH1067"
+    },
+    {
+      "\"name\"": "Diabetes-Elixhauser-primary-care---398956f0-1e00-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "Diabetes (uncomplicated) Elixhauser primary care - PH1077"
     },
     {
       "\"name\"": "Acarbose---a74b8e40-1bd7-11ef-bdee-f10829e63eeb",
@@ -381,8 +353,16 @@
       "\"about\"": "Sulfonylureas - PH750"
     },
     {
-      "\"name\"": "Diabetes-Elixhauser-primary-care---398956f0-1e00-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Diabetes (uncomplicated) Elixhauser primary care - PH1077"
+      "\"name\"": "Metformin---74b729a0-1cd4-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Metformin - PH836"
+    },
+    {
+      "\"name\"": "Sulfonylureas---76fa76a0-1a26-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Sulfonylureas - PH566"
+    },
+    {
+      "\"name\"": "Diabetes-Medication---3541e3f0-1847-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Diabetes Medication - PH374"
     },
     {
       "\"name\"": "Metformin---6da8b740-1cd5-11ef-bdee-f10829e63eeb",
@@ -393,8 +373,24 @@
       "\"about\"": "Metformin - PH738"
     },
     {
+      "\"name\"": "Thiazolidinediones---b8c49280-1c26-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Thiazolidinediones - PH751"
+    },
+    {
       "\"name\"": "Metformin---3d721d70-1a1c-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Metformin - PH546"
+    },
+    {
+      "\"name\"": "Acerbose---0bc897e0-19c2-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Acerbose - PH492"
+    },
+    {
+      "\"name\"": "Diabetes-Comorbidities---f6eab580-1cda-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Diabetes Comorbidities - PH844"
+    },
+    {
+      "\"name\"": "Diabetes-with-end-organ-damage-Charlson-primary-care---bc9f6350-1df5-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "Diabetes with end-organ damage Charlson primary care - PH1068"
     }
   ],
   "{\"\\\"name\\\"\": \"Asthma---47a14f80-16f4-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Asthma - PH12\"}": [
@@ -427,12 +423,12 @@
       "\"about\"": "Asthma (P1) - PH680"
     },
     {
-      "\"name\"": "Asthma-Biobank---8ba0cfa0-1c2e-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Asthma Biobank - PH784"
-    },
-    {
       "\"name\"": "Asthma-Drugs---84ef7710-186e-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Asthma Drugs - PH405"
+    },
+    {
+      "\"name\"": "Asthma-Biobank---8ba0cfa0-1c2e-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Asthma Biobank - PH784"
     },
     {
       "\"name\"": "Asthma-Clinicals---735af540-19c4-11ef-9de4-4d4ea830ad16",
@@ -577,6 +573,14 @@
       "\"about\"": "Z2l3VT8WC4WqRBwbZuxB667XOiY - Heart failure"
     },
     {
+      "\"name\"": "Hypertension---9836bd10-19f9-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Hypertension - PH534"
+    },
+    {
+      "\"name\"": "Diuretics-Thiazide---ecb4c4d0-19f0-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Diuretics Thiazide - PH521"
+    },
+    {
       "\"name\"": "Heart-failure-medication---55e06ba0-230e-11ef-ba9f-3d1e4076db47",
       "\"about\"": "Heart failure medication - PH1603"
     },
@@ -585,40 +589,32 @@
       "\"about\"": "Ace Inhibitors - PH491"
     },
     {
-      "\"name\"": "Calcium-Channel-Blockers---3d4b9100-19cc-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Calcium Channel Blockers - PH503"
+      "\"name\"": "Beta-Blockers---2453b540-20e5-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "Beta Blockers - PH501"
     },
     {
-      "\"name\"": "Hypertension---eadd4c10-19f8-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Hypertension - PH533"
+      "\"name\"": "Congestive-heart-failure-Elixhauser-primary-care---27c72a30-1dfd-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "Congestive heart failure Elixhauser primary care - PH1074"
     },
     {
       "\"name\"": "Hypertension---34d922f0-1aab-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Hypertension - PH619"
     },
     {
-      "\"name\"": "Hypertension---9836bd10-19f9-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Hypertension - PH534"
-    },
-    {
-      "\"name\"": "Beta-Blockers---2453b540-20e5-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "Beta Blockers - PH501"
-    },
-    {
-      "\"name\"": "Diuretics-Thiazide---ecb4c4d0-19f0-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Diuretics Thiazide - PH521"
-    },
-    {
-      "\"name\"": "Dpp4---09d1dab0-19f3-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Dpp4 - PH523"
-    },
-    {
       "\"name\"": "Loop-Diuretics---9078d400-19fe-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Loop Diuretics - PH543"
     },
     {
-      "\"name\"": "Congestive-heart-failure-Elixhauser-primary-care---27c72a30-1dfd-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Congestive heart failure Elixhauser primary care - PH1074"
+      "\"name\"": "Hypertension---eadd4c10-19f8-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Hypertension - PH533"
+    },
+    {
+      "\"name\"": "Calcium-Channel-Blockers---3d4b9100-19cc-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Calcium Channel Blockers - PH503"
+    },
+    {
+      "\"name\"": "Dpp4---09d1dab0-19f3-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Dpp4 - PH523"
     }
   ],
   "{\"\\\"name\\\"\": \"Hypertension---a5a4f0e0-16fa-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Hypertension - PH26\"}": [
@@ -643,8 +639,20 @@
       "\"about\"": "Hypertension - PH632"
     },
     {
+      "\"name\"": "Hypertension---ed80f920-1d4b-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "Hypertension (Drug Code) - PH897"
+    },
+    {
       "\"name\"": "Hypertension---758ae8f0-1dc7-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Hypertension - PH1029"
+    },
+    {
+      "\"name\"": "Thiazolidinediones---1473b9f0-1a27-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Thiazolidinediones - PH567"
+    },
+    {
+      "\"name\"": "CCU002_01-Hypertension---4ec0f610-220e-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "CCU002_01 Hypertension - PH970"
     },
     {
       "\"name\"": "CCU002_02-Hypertension---4125acb0-2279-11ef-ba9f-3d1e4076db47",
@@ -653,14 +661,6 @@
     {
       "\"name\"": "Hypertension-Elixhauser-primary-care---cc33eec0-1e05-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Hypertension (uncomplicated) Elixhauser primary care - PH1082"
-    },
-    {
-      "\"name\"": "CCU002_01-Hypertension---4ec0f610-220e-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_01 Hypertension - PH970"
-    },
-    {
-      "\"name\"": "Thiazolidinediones---1473b9f0-1a27-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Thiazolidinediones - PH567"
     },
     {
       "\"name\"": "Alpha-Blockers---58e77b90-19c2-11ef-9de4-4d4ea830ad16",
@@ -705,6 +705,10 @@
     {
       "\"name\"": "Atrial-Fibrillation---1035ca00-1dc8-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Atrial Fibrillation - PH1045"
+    },
+    {
+      "\"name\"": "Atrial-fibrillation-medication---2e6a3f80-22fd-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "Atrial fibrillation medication - PH1594"
     }
   ],
   "{\"\\\"name\\\"\": \"Acute-Kidney-Injury---8db0f0f0-170a-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Acute Kidney Injury - PH37\"}": [
@@ -1015,12 +1019,12 @@
       "\"about\"": "CCU002_01 Dementia - PH963"
     },
     {
-      "\"name\"": "CCU002_02-Dementia---1ef905e0-2271-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "CCU002_02 Dementia - PH1004"
-    },
-    {
       "\"name\"": "Antipsychotics---180e3230-1b4d-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Antipsychotics (P13) - PH656"
+    },
+    {
+      "\"name\"": "CCU002_02-Dementia---1ef905e0-2271-11ef-ba9f-3d1e4076db47",
+      "\"about\"": "CCU002_02 Dementia - PH1004"
     },
     {
       "\"name\"": "Depression---d770c120-19e9-11ef-9de4-4d4ea830ad16",
@@ -1085,20 +1089,6 @@
     {
       "\"name\"": "Leukaemia---acec0eb0-1a97-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Leukaemia - PH598"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Alcoholic-liver-disease---50599680-1791-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Alcoholic liver disease - PH202\"}": [
-    {
-      "\"name\"": "Alcohol---ff04c250-1835-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Alcohol - PH359"
-    },
-    {
-      "\"name\"": "Alcohol-Status---6aaa5ef0-18f1-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Alcohol Status - PH447"
-    },
-    {
-      "\"name\"": "Alcohol-use---4fdca720-1e5c-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Alcohol use - PH1107"
     }
   ],
   "{\"\\\"name\\\"\": \"Lower-Respiratory-Tract-Infections---fb8021f0-1791-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Lower Respiratory Tract Infections - PH204\"}": [
@@ -1215,150 +1205,6 @@
       "\"about\"": "Primary Malignancy_Oesophageal - PH260"
     }
   ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Bladder---0e0be5a0-17a8-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Bladder - PH248\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Bone-and-articular-cartilage---6820cf60-17a8-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Bone and articular cartilage - PH249\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_colorectal-and-anus---1f7de170-17a9-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_colorectal and anus - PH250\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Brain-Other-CNS-and-Intracranial---acc22050-17a9-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Brain, Other CNS and Intracranial - PH251\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Breast---73b9cb90-17aa-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Breast - PH252\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Cervical---e9e6a220-17aa-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Cervical - PH253\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Kidney-and-Ureter---29287b20-17ab-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Kidney and Ureter - PH254\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Liver---81a4ea90-17ab-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Liver - PH255\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Lung-and-trachea---e166ec80-17ab-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Lung and trachea - PH256\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Malignant-Melanoma---536868e0-17ac-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Malignant Melanoma - PH257\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Mesothelioma---dfda1580-17ac-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Mesothelioma - PH258\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Multiple-independent-sites---10358a20-17ad-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Multiple independent sites - PH259\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Oro-pharyngeal---af971570-17ad-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Oro-pharyngeal - PH261\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Other-Organs---48e9cea0-17b0-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Other Organs - PH262\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Ovarian---270a78f0-17b2-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Ovarian - PH263\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Pancreatic---6fb057a0-17b2-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Pancreatic - PH264\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Prostate---b39245a0-17b2-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Prostate - PH265\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Other-Skin-and-subcutaneous-tissue---2bba01d0-17b3-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Other Skin and subcutaneous tissue - PH266\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Stomach---c630b380-17b3-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Stomach - PH267\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Testicular---1c9d7cd0-17b4-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Testicular - PH268\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-or-Idiopathic-Thrombocytopaenia---63b6a100-17b4-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary or Idiopathic Thrombocytopaenia - PH269\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Thyroid---aaf32bb0-17b4-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Thyroid - PH270\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-Malignancy_Uterine---e4b64f80-17b4-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary Malignancy_Uterine - PH271\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-pulmonary-hypertension---3825b750-17b5-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Primary pulmonary hypertension - PH272\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
-    }
-  ],
   "{\"\\\"name\\\"\": \"Raynauds-syndrome---a0ea6fa0-17b6-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Raynaud's syndrome - PH277\"}": [
     {
       "\"name\"": "Raynaud---241613e0-690e-11ef-918f-350181f4a5db",
@@ -1382,12 +1228,6 @@
     }
   ],
   "{\"\\\"name\\\"\": \"Sickle-cell-anaemia---d464dde0-17be-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Sickle-cell anaemia - PH304\"}": [
-    {
-      "\"name\"": "Sickle-cell---8f2454c0-6914-11ef-918f-350181f4a5db",
-      "\"about\"": "iaxvSHZQUJEhudqxqpJBQZqB2RY - Sickle cell"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Sickle-cell-trait---1e623640-17bf-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Sickle-cell trait - PH305\"}": [
     {
       "\"name\"": "Sickle-cell---8f2454c0-6914-11ef-918f-350181f4a5db",
       "\"about\"": "iaxvSHZQUJEhudqxqpJBQZqB2RY - Sickle cell"
@@ -1527,24 +1367,24 @@
       "\"about\"": "Smoking Status - PH716"
     },
     {
-      "\"name\"": "Smoking---fac02590-19bb-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Smoking - PH489"
+      "\"name\"": "Statin---283ef7b0-1d4c-11ef-94c0-09c4aef33dd3",
+      "\"about\"": "Statin - PH898"
     },
     {
       "\"name\"": "Statins---54d34110-1aad-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Statins - PH622"
     },
     {
-      "\"name\"": "Statin---283ef7b0-1d4c-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Statin - PH898"
+      "\"name\"": "Smoking---ba3b1a50-185f-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Smoking - PH393"
     },
     {
       "\"name\"": "Smoking---49a47d50-1da9-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Smoking - PH931"
     },
     {
-      "\"name\"": "Smoking---ba3b1a50-185f-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Smoking - PH393"
+      "\"name\"": "Smoking---fac02590-19bb-11ef-9de4-4d4ea830ad16",
+      "\"about\"": "Smoking - PH489"
     }
   ],
   "{\"\\\"name\\\"\": \"Angina---cfa88020-1833-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Angina - PH354\"}": [
@@ -1677,14 +1517,6 @@
     {
       "\"name\"": "Schizophrenia-Spectrum---967bcc10-1bb9-11ef-bdee-f10829e63eeb",
       "\"about\"": "Schizophrenia Spectrum - PH706"
-    },
-    {
-      "\"name\"": "Schizophrenia---ef9a95e0-1d41-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Schizophrenia - PH892"
-    },
-    {
-      "\"name\"": "Schizophrenia---f6aa3d30-21d4-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "Schizophrenia - PH939"
     }
   ],
   "{\"\\\"name\\\"\": \"selective-serotonin-reuptake-inhibitor-adds---4cd0bcd0-1860-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"selective serotonin reuptake inhibitor (SSRI) adds - PH394\"}": [
@@ -1783,16 +1615,6 @@
       "\"about\"": "Influenza Immunisation - PH537"
     }
   ],
-  "{\"\\\"name\\\"\": \"Lithium-Levels---59bdaa10-187f-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Lithium Levels - PH427\"}": [
-    {
-      "\"name\"": "Lithium---04720fb0-1965-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Lithium - PH468"
-    },
-    {
-      "\"name\"": "Lithium---d3559070-1b92-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Lithium (M4) - PH668"
-    }
-  ],
   "{\"\\\"name\\\"\": \"Otitis-Media---18a02150-1881-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Otitis Media - PH431\"}": [
     {
       "\"name\"": "Otitismedia---3df453f0-19a7-11ef-9de4-4d4ea830ad16",
@@ -1827,20 +1649,6 @@
     {
       "\"name\"": "Thyroid-Function-Test---a1854100-1b90-11ef-bdee-f10829e63eeb",
       "\"about\"": "Thyroid Function Test (M2) - PH664"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Alcohol-Intake---0a660da0-18f1-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Alcohol Intake - PH446\"}": [
-    {
-      "\"name\"": "Alcohol---ff04c250-1835-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Alcohol - PH359"
-    },
-    {
-      "\"name\"": "Alcohol-Status---6aaa5ef0-18f1-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Alcohol Status - PH447"
-    },
-    {
-      "\"name\"": "Alcohol-use---4fdca720-1e5c-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Alcohol use - PH1107"
     }
   ],
   "{\"\\\"name\\\"\": \"Breast-Cancer---82475580-18f2-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Breast Cancer - PH450\"}": [
@@ -1905,6 +1713,10 @@
     {
       "\"name\"": "Type-2-Diabetes---dfc54970-1a27-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Type 2 Diabetes - PH569"
+    },
+    {
+      "\"name\"": "Type-2-Diabetes---7fcbd1f0-1bd6-11ef-bdee-f10829e63eeb",
+      "\"about\"": "Type 2 Diabetes - PH718"
     },
     {
       "\"name\"": "Type-2-Diabetes---1c10b020-1c28-11ef-bdee-f10829e63eeb",
@@ -1979,36 +1791,12 @@
     {
       "\"name\"": "Insulin---fb6cf160-1d1e-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Insulin - PH835"
-    },
-    {
-      "\"name\"": "Insulin---a6de0590-230d-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "Insulin - PH1602"
     }
   ],
   "{\"\\\"name\\\"\": \"Learning-Disability---618b8040-19fc-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Learning Disability - PH539\"}": [
     {
       "\"name\"": "Learning-Disability---f8782950-1ad7-11ef-9de4-4d4ea830ad16",
       "\"about\"": "Learning Disability - PH634"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Lithium-Drug-Codes---bcc174f0-19fd-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Lithium Drug Codes - PH541\"}": [
-    {
-      "\"name\"": "Lithium---04720fb0-1965-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Lithium - PH468"
-    },
-    {
-      "\"name\"": "Lithium---d3559070-1b92-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Lithium (M4) - PH668"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Lithium-Therapy---2904e930-19fe-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Lithium Therapy - PH542\"}": [
-    {
-      "\"name\"": "Lithium---04720fb0-1965-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Lithium - PH468"
-    },
-    {
-      "\"name\"": "Lithium---d3559070-1b92-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Lithium (M4) - PH668"
     }
   ],
   "{\"\\\"name\\\"\": \"Metformin---3d721d70-1a1c-11ef-9de4-4d4ea830ad16\", \"\\\"about\\\"\": \"Metformin - PH546\"}": [
@@ -2183,49 +1971,7 @@
       "\"about\"": "Influenza infection Secondary care - PH807"
     }
   ],
-  "{\"\\\"name\\\"\": \"Cancer-Comorbidities---70b887f0-1cd8-11ef-bdee-f10829e63eeb\", \"\\\"about\\\"\": \"Cancer Comorbidities - PH839\"}": [
-    {
-      "\"name\"": "Cancer---f7543d20-18f2-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Cancer - PH451"
-    },
-    {
-      "\"name\"": "Cancer---f545c940-19d3-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Cancer - PH504"
-    },
-    {
-      "\"name\"": "Cancer---54f2e2a0-19df-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Cancer - PH505"
-    },
-    {
-      "\"name\"": "Cancer---a45aaf60-1aa4-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Cancer - PH616"
-    },
-    {
-      "\"name\"": "Cancer---3f184890-1d2b-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Cancer - PH873"
-    },
-    {
-      "\"name\"": "Cancer---cf605040-210a-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "Cancer - PH624"
-    },
-    {
-      "\"name\"": "Cancer---6d91f990-23e9-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "Cancer - PH725"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Opioid-Addiction-Comorbidities---3a62b6c0-1cde-11ef-bdee-f10829e63eeb\", \"\\\"about\\\"\": \"Opioid Addiction Comorbidities - PH852\"}": [
-    {
-      "\"name\"": "Opioid---f2cdf570-1965-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Opioid - PH471"
-    }
-  ],
   "{\"\\\"name\\\"\": \"Sinusitis-Primary-care---6a17e1d0-1cf5-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"Sinusitis Primary care - PH812\"}": [
-    {
-      "\"name\"": "Sinusitis---1109bc40-1d4e-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Sinusitis - PH903"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Sinusitis-Secondary-care---b6562980-1cf5-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"Sinusitis Secondary care - PH813\"}": [
     {
       "\"name\"": "Sinusitis---1109bc40-1d4e-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Sinusitis - PH903"
@@ -2233,20 +1979,8 @@
   ],
   "{\"\\\"name\\\"\": \"Alcohol-Abuse---92a271e0-1d0b-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"Alcohol Abuse - PH821\"}": [
     {
-      "\"name\"": "Alcohol---ff04c250-1835-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Alcohol - PH359"
-    },
-    {
-      "\"name\"": "Alcohol-Status---6aaa5ef0-18f1-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Alcohol Status - PH447"
-    },
-    {
       "\"name\"": "Alcohol-abuse-Elixhauser-primary-care---c83ebd90-1df6-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Alcohol abuse Elixhauser primary care - PH1069"
-    },
-    {
-      "\"name\"": "Alcohol-use---4fdca720-1e5c-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Alcohol use - PH1107"
     }
   ],
   "{\"\\\"name\\\"\": \"Substance-Misuse---c3000530-1d12-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"Substance Misuse - PH827\"}": [
@@ -2275,124 +2009,16 @@
       "\"about\"": "Chronic Pulmonary Disease - PH726"
     }
   ],
-  "{\"\\\"name\\\"\": \"Alcohol-Related-Mortality---ec9b5740-1d4f-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"Alcohol-Related Mortality - PH908\"}": [
-    {
-      "\"name\"": "Alcohol---ff04c250-1835-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Alcohol - PH359"
-    },
-    {
-      "\"name\"": "Alcohol-Status---6aaa5ef0-18f1-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Alcohol Status - PH447"
-    },
-    {
-      "\"name\"": "Alcohol-use---4fdca720-1e5c-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Alcohol use - PH1107"
-    }
-  ],
   "{\"\\\"name\\\"\": \"Alcohol-Consumption---7baded80-1d50-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"Alcohol Consumption - PH909\"}": [
-    {
-      "\"name\"": "Alcohol---ff04c250-1835-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Alcohol - PH359"
-    },
-    {
-      "\"name\"": "Alcohol-Status---6aaa5ef0-18f1-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Alcohol Status - PH447"
-    },
-    {
-      "\"name\"": "Alcohol-use---4fdca720-1e5c-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Alcohol use - PH1107"
-    },
     {
       "\"name\"": "Alcohol-Consumption---a6b16d00-1ffc-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Alcohol Consumption - PH9"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Renal-disease-Charlson-primary-care---4cba5090-1df0-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"Renal disease Charlson primary care - PH1065\"}": [
-    {
-      "\"name\"": "Renal-Disease---dbfd6510-1c21-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Renal Disease - PH746"
-    },
-    {
-      "\"name\"": "Renal-Disease---7bdfc630-1d40-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Renal Disease - PH890"
-    },
-    {
-      "\"name\"": "Renal---3826d670-690f-11ef-918f-350181f4a5db",
-      "\"about\"": "EtE3YufoK2xIGMn9xe2KYlKj640 - Renal"
     }
   ],
   "{\"\\\"name\\\"\": \"Drug-abuse-Elixhauser-primary-care---572e1df0-1e03-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"Drug abuse Elixhauser primary care - PH1079\"}": [
     {
       "\"name\"": "Drug-use---5561e4a0-1e5f-11ef-94c0-09c4aef33dd3",
       "\"about\"": "Drug use - PH1108"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Liver-disease-Elixhauser-primary-care---82a88020-1e07-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"Liver disease Elixhauser primary care - PH1085\"}": [
-    {
-      "\"name\"": "Infection-of-liver---069db3f0-1791-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Infection of liver - PH201"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Renal-disease-Elixhauser-primary-care---ef5fe380-1e15-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"Renal disease Elixhauser primary care - PH1095\"}": [
-    {
-      "\"name\"": "Renal-Disease---dbfd6510-1c21-11ef-bdee-f10829e63eeb",
-      "\"about\"": "Renal Disease - PH746"
-    },
-    {
-      "\"name\"": "Renal-Disease---7bdfc630-1d40-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Renal Disease - PH890"
-    },
-    {
-      "\"name\"": "Renal---3826d670-690f-11ef-918f-350181f4a5db",
-      "\"about\"": "EtE3YufoK2xIGMn9xe2KYlKj640 - Renal"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Bipolar-Disorder-and-Other-Mood-Related-Disorders---f84c0b80-1f51-11ef-94c0-09c4aef33dd3\", \"\\\"about\\\"\": \"Bipolar Disorder and Other Mood Related Disorders - PH937\"}": [
-    {
-      "\"name\"": "Bipolar-Disorder---97fabbe0-1840-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Bipolar Disorder - PH368"
-    },
-    {
-      "\"name\"": "Bipolar-Disorder---38cbb5b0-1841-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Bipolar Disorder - PH369"
-    },
-    {
-      "\"name\"": "Bipolar-Disorder---4bab2e90-1a8f-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Bipolar Disorder - PH584"
-    },
-    {
-      "\"name\"": "Bipolar---d807c230-1d24-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Bipolar - PH872"
-    },
-    {
-      "\"name\"": "Bipolar-Disorder---1309a010-2121-11ef-ba9f-3d1e4076db47",
-      "\"about\"": "Bipolar Disorder - PH698"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Drugs---222c86f0-20ce-11ef-ba9f-3d1e4076db47\", \"\\\"about\\\"\": \"Drugs - PH455\"}": [
-    {
-      "\"name\"": "Drug-use---5561e4a0-1e5f-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Drug use - PH1108"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Alcoholic-fatty-liver---93c163f0-684d-11ef-918f-350181f4a5db\", \"\\\"about\\\"\": \"85u8QY5l1F68gcIjjaLr0mrOE0 - Alcoholic fatty liver\"}": [
-    {
-      "\"name\"": "Alcohol---ff04c250-1835-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Alcohol - PH359"
-    },
-    {
-      "\"name\"": "Alcohol-Status---6aaa5ef0-18f1-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Alcohol Status - PH447"
-    },
-    {
-      "\"name\"": "Alcohol-use---4fdca720-1e5c-11ef-94c0-09c4aef33dd3",
-      "\"about\"": "Alcohol use - PH1107"
-    }
-  ],
-  "{\"\\\"name\\\"\": \"Primary-biliary-cholangitis---754beb30-6865-11ef-918f-350181f4a5db\", \"\\\"about\\\"\": \"6PvRFz9aDJgTqCSTCCYu31nQLM - Primary biliary cholangitis\"}": [
-    {
-      "\"name\"": "Primary-Malignancy_Oesophageal---449dad60-17ad-11ef-9de4-4d4ea830ad16",
-      "\"about\"": "Primary Malignancy_Oesophageal - PH260"
     }
   ]
 }
