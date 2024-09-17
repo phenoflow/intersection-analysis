@@ -128,128 +128,128 @@ Personality-disorders,Personality-Disorder,true positive
 Personality-disorders,Personality-Disorder,true positive
 Personality-disorders,Personality-Disorders,true positive
 Personality-disorders,Personality-Disorder,true positive
-Asthma,Asthma,
-Asthma,Asthma,
-Asthma,Asthma,
-Asthma,Asthma,
-Asthma,Asthma,
-Asthma,Asthma,
-Asthma,Asthma,
-Asthma,Asthma-Drugs,
-Asthma,Asthma-Biobank,
-Asthma,Asthma-Clinicals,
-Asthma,Asthma-Drugs,
-Cystic-Fibrosis,Cystic-Fibrosis,
-Cystic-Fibrosis,Cystic-Fibrosis,
-Dermatitis,Dermatitis-herpetiformis,
-Heart-failure,Heart-failure,
-Heart-failure,Heart-Failure,
-Heart-failure,Heart-Failure,
-Heart-failure,Heart-Failure,
-Heart-failure,Heart-Failure,
-Heart-failure,Heart-Failure,
-Heart-failure,Heart-failure,
-Heart-failure,Hypertension,
-Heart-failure,Diuretics-Thiazide,
-Heart-failure,Heart-failure-medication,
-Heart-failure,Ace-Inhibitors,
-Heart-failure,Beta-Blockers,
-Heart-failure,Congestive-heart-failure-Elixhauser-primary-care,
-Heart-failure,Hypertension,
-Heart-failure,Loop-Diuretics,
-Heart-failure,Hypertension,
-Heart-failure,Calcium-Channel-Blockers,
-Heart-failure,Dpp4,
-Stroke-NOS,Stroke,
-Stroke-NOS,Stroke,
-Stroke-NOS,Stroke,
-Stroke-NOS,Stroke,
-Stroke-NOS,Stroke,
-Stroke-NOS,Stroke,
-Lower-Respiratory-Tract-Infections,Respiratory-Tract-Infection,
-Lower-Respiratory-Tract-Infections,Respiratory-Tract-Infection,
-Lower-Respiratory-Tract-Infections,Lower-respiratory-tract-infection,
-Ankylosing-spondylitis,Ankylosing-Spondylitis,
-Ankylosing-spondylitis,Ankylosing-spondylitis,
-Tuberculosis,Tuberculosis-Secondary-care,
-Tuberculosis,Tuberculosis-Primary-care,
-Juvenile-arthritis,Arthritis,
-Migraine,Migraine,
-Migraine,Migraine,
-Giant-Cell-arteritis,Giant-cell-arteritis,
-Alopecia-areata,Alopecia-areata,
-Alopecia-areata,Alopecia,
-HIV,HIV-AIDS-Elixhauser-primary-care,
-HIV,HIV-AIDS-Charlson-primary-care,
-Polymyalgia-Rheumatica,Polymyalgia-rheumatica,
-Psoriasis,Psoriasis,
-Psoriasis,Psoriasis,
-Psoriasis,Psoriasis,
-Psoriasis,Psoriasis,
-Psoriasis,Psoriasis,
-Psoriasis,Psoriasis,
-Psoriasis,Psoriasis,
-Psoriasis,Psoriasis,
-Blood-Pressure,Blood-Pressure-Measurement,
-Diabetes,Diabetes,
-Diabetes,Diabetes,
-Diabetes,Diabetes,
-Diabetes,Diabetes,
-Diabetes,Diabetes,
-Diabetes,Diabetes,
-Diabetes,Diabetes,
-Diabetes,Diabetes,
-Diabetes,Diabetes,
-Diabetes,Diabetes,
-Diabetes,Diabetes,
-Diabetes,Diabetes,
-Diabetes,Diabetes,
-Diabetes,Diabetes,
-Diabetes,Diabetes,
-Diabetes,Diabetes-Charlson-primary-care,
-Diabetes,Diabetes-Elixhauser-primary-care,
-Diabetes,Acarbose,
-Diabetes,Sulfonylureas,
-Diabetes,Metformin,
-Diabetes,Sulfonylureas,
-Diabetes,Diabetes-Medication,
-Diabetes,Metformin,
-Diabetes,Metformin,
-Diabetes,Thiazolidinediones,
-Diabetes,Metformin,
-Diabetes,Acerbose,
-Diabetes,Diabetes-Comorbidities,
-Diabetes,Diabetes-with-end-organ-damage-Charlson-primary-care,
-Bacterial-Diseases,Bacterial-sepsis-of-newborn,
-Atrioventricular-block-first-degree,Atrioventricular-block-second-degree,
-Atrial-fibrillation,Atrial-Fibrillation,
-Atrial-fibrillation,Atrial-Fibrillation,
-Atrial-fibrillation,Atrial-fibrillation-medication,
-Appendicitis,Appendicitis,
-COVID-19-infection,Long-covid,
-COVID-19-infection,Long-covid,
-COVID-19-infection,Long-covid,
-COVID-19-infection,Long-covid,
-COVID-19-infection,Long-covid,
-COVID-19-infection,Long-covid,
-COVID-19-infection,Covid,
-COVID-19-infection,Long-covid,
-Epilepsy,Epilepsy,
-Epilepsy,Epilepsy-Clinicals,
-Epilepsy,Epilepsy-Drugs,
-Epilepsy,Epilepsy,
-Epilepsy,Epilepsy,
-Epilepsy,Epilepsy,
-Hypertension,Hypertension,
-Hypertension,Hypertension,
-Hypertension,Hypertension,
-Hypertension,Hypertension,
-Hypertension,Hypertension,
-Hypertension,Hypertension,
-Hypertension,Hypertension,
-Hypertension,Thiazolidinediones,
-Hypertension,CCU002_01-Hypertension,
-Hypertension,CCU002_02-Hypertension,
-Hypertension,Hypertension-Elixhauser-primary-care,
-Hypertension,Alpha-Blockers,
-Liver-fibrosis-sclerosis-and-cirrhosis,Infection-of-liver,
+Asthma,Asthma,true positive
+Asthma,Asthma,true positive
+Asthma,Asthma,true positive
+Asthma,Asthma,true positive
+Asthma,Asthma,true positive
+Asthma,Asthma,true positive
+Asthma,Asthma,true positive
+Asthma,Asthma-Drugs,true positive
+Asthma,Asthma-Biobank,true positive
+Asthma,Asthma-Clinicals,true positive
+Asthma,Asthma-Drugs,true positive
+Cystic-Fibrosis,Cystic-Fibrosis,true positive
+Cystic-Fibrosis,Cystic-Fibrosis,true positive
+Dermatitis,Dermatitis-herpetiformis,true positive
+Heart-failure,Heart-failure,true positive
+Heart-failure,Heart-Failure,true positive
+Heart-failure,Heart-Failure,true positive
+Heart-failure,Heart-Failure,true positive
+Heart-failure,Heart-Failure,true positive
+Heart-failure,Heart-Failure,true positive
+Heart-failure,Heart-failure,true positive
+Heart-failure,Hypertension,false positive
+Heart-failure,Diuretics-Thiazide,true positive
+Heart-failure,Heart-failure-medication,true positive
+Heart-failure,Ace-Inhibitors,true positive
+Heart-failure,Beta-Blockers,true positive
+Heart-failure,Congestive-heart-failure-Elixhauser-primary-care,true positive
+Heart-failure,Hypertension,false positive
+Heart-failure,Loop-Diuretics,true positive
+Heart-failure,Hypertension,false positive
+Heart-failure,Calcium-Channel-Blockers,true positive
+Heart-failure,Dpp4,true positive
+Stroke-NOS,Stroke,true positive
+Stroke-NOS,Stroke,true positive
+Stroke-NOS,Stroke,true positive
+Stroke-NOS,Stroke,true positive
+Stroke-NOS,Stroke,true positive
+Stroke-NOS,Stroke,true positive
+Lower-Respiratory-Tract-Infections,Respiratory-Tract-Infection,true positive
+Lower-Respiratory-Tract-Infections,Respiratory-Tract-Infection,true positive
+Lower-Respiratory-Tract-Infections,Lower-respiratory-tract-infection,true positive
+Ankylosing-spondylitis,Ankylosing-Spondylitis,true positive
+Ankylosing-spondylitis,Ankylosing-spondylitis,true positive
+Tuberculosis,Tuberculosis-Secondary-care,true positive
+Tuberculosis,Tuberculosis-Primary-care,true positive
+Juvenile-arthritis,Arthritis,true positive
+Migraine,Migraine,true positive
+Migraine,Migraine,true positive
+Giant-Cell-arteritis,Giant-cell-arteritis,true positive
+Alopecia-areata,Alopecia-areata,true positive
+Alopecia-areata,Alopecia,true positive
+HIV,HIV-AIDS-Elixhauser-primary-care,true positive
+HIV,HIV-AIDS-Charlson-primary-care,true positive
+Polymyalgia-Rheumatica,Polymyalgia-rheumatica,true positive
+Psoriasis,Psoriasis,true positive
+Psoriasis,Psoriasis,true positive
+Psoriasis,Psoriasis,true positive
+Psoriasis,Psoriasis,true positive
+Psoriasis,Psoriasis,true positive
+Psoriasis,Psoriasis,true positive
+Psoriasis,Psoriasis,true positive
+Psoriasis,Psoriasis,true positive
+Blood-Pressure,Blood-Pressure-Measurement,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes,true positive
+Diabetes,Diabetes-Charlson-primary-care,true positive
+Diabetes,Diabetes-Elixhauser-primary-care,true positive
+Diabetes,Acarbose,true positive
+Diabetes,Sulfonylureas,true positive
+Diabetes,Metformin,true positive
+Diabetes,Sulfonylureas,true positive
+Diabetes,Diabetes-Medication,true positive
+Diabetes,Metformin,true positive
+Diabetes,Metformin,true positive
+Diabetes,Thiazolidinediones,true positive
+Diabetes,Metformin,true positive
+Diabetes,Acerbose,true positive
+Diabetes,Diabetes-Comorbidities,false positive
+Diabetes,Diabetes-with-end-organ-damage-Charlson-primary-care,true positive
+Bacterial-Diseases,Bacterial-sepsis-of-newborn,true positive
+Atrioventricular-block-first-degree,Atrioventricular-block-second-degree,unsure
+Atrial-fibrillation,Atrial-Fibrillation,true positive
+Atrial-fibrillation,Atrial-Fibrillation,true positive
+Atrial-fibrillation,Atrial-fibrillation-medication,true positive
+Appendicitis,Appendicitis,true positive
+COVID-19-infection,Long-covid,true positive
+COVID-19-infection,Long-covid,true positive
+COVID-19-infection,Long-covid,true positive
+COVID-19-infection,Long-covid,true positive
+COVID-19-infection,Long-covid,true positive
+COVID-19-infection,Long-covid,true positive
+COVID-19-infection,Covid,true positive
+COVID-19-infection,Long-covid,true positive
+Epilepsy,Epilepsy,true positive
+Epilepsy,Epilepsy-Clinicals,true positive
+Epilepsy,Epilepsy-Drugs,true positive
+Epilepsy,Epilepsy,true positive
+Epilepsy,Epilepsy,true positive
+Epilepsy,Epilepsy,true positive
+Hypertension,Hypertension,true positive
+Hypertension,Hypertension,true positive
+Hypertension,Hypertension,true positive
+Hypertension,Hypertension,true positive
+Hypertension,Hypertension,true positive
+Hypertension,Hypertension,true positive
+Hypertension,Hypertension,true positive
+Hypertension,Thiazolidinediones,true positive
+Hypertension,CCU002_01-Hypertension,true positive
+Hypertension,CCU002_02-Hypertension,true positive
+Hypertension,Hypertension-Elixhauser-primary-care,true positive
+Hypertension,Alpha-Blockers,true positive
+Liver-fibrosis-sclerosis-and-cirrhosis,Infection-of-liver,true positive
